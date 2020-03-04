@@ -1,0 +1,50 @@
+.background {
+	background-image: url("https://im0-tub-ua.yandex.net/i?id=28bad08111dbbb3f8b6a61aad6443cfc&n=13");
+	width: 100%;
+	
+}
+.container {
+	background-color: #FFFFFF;
+}
+.nav {
+  background: #FF00FF;
+}
+
+.nav-item {
+  padding: 7px;
+}
+
+.nav-item:hover, .active {
+  background: #FFC0CB;
+}
+
+.nav-link, .nav-link:hover {
+  
+  color: #FFF8DC;
+  font: bold 18px sans-serif;
+}
+.images {
+	    max-width: auto;
+    height: auto;
+    margin-left: 10%;
+}
+.zagolovok1 {
+	text-align: center;
+	font-family: Open Sans;
+	color: #FF00FF;
+}
+.zagolovok2 {
+	text-align: center;
+	font-family: Capture it 2;
+	color: #FF00FF;
+	font-size: 30px;
+	padding-top: 10px; 
+}
+.footer {
+	padding-top: 5px;
+}
+.video {
+	width: 100%;
+	margin-top: 10px;
+}
+
