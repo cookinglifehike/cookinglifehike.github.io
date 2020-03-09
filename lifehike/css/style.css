@@ -1,0 +1,58 @@
+.food-block {
+  background-image: url("https://vivalalife.ru/wp-content/uploads/2019/04/1-1-1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+}
+.nav {
+  background: #FF00FF;
+}
+
+.nav-item {
+  padding: 7px;
+}
+
+.nav-item:hover, .active {
+  background: #FFC0CB;
+}
+
+.nav-link, .nav-link:hover {
+  
+  color: #FFF8DC;
+  font: bold 18px sans-serif;
+}
+
+
+.zagolovok3 {
+  font-size: 20px;
+  color: #FF8C00;
+  margin-left: 10px; 
+
+}
+.zagolovok {
+  text-align: center;
+  font-size: 35px; 
+  color: #800080;
+}
+.zagolovok2 {
+  font-size: 20px;
+  color: red;
+}
+.images {
+  width: 70%;
+  height: 70%;
+  margin-left: 100px;
+}
+
+p {
+	color: #FF1493;
+  position: relative;
+}
+
+
+#bottom {
+    background: #232323;
+    color: #6f6f6f;
+    margin-top: 10px;
+}
